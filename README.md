@@ -5,7 +5,7 @@ This is a simple project with react vite tailwind css and localstorage. This pro
 ## Usage
 1. Clone this repository
 ```bash
-git clone https://github.com/AbdurRaahimm/react-blog-localstorage.git
+git clone https://github.com/Sheetal8080/Blog-With-Sheetal
 ```
 2. Run The Essential Dependency
 ```bash
